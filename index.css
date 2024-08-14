@@ -1,0 +1,215 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(30, 10, 119);
+
+}
+.header{
+    justify-content: space-between;
+    display: flex;
+ margin-left: 20px;
+ margin-right: 20px;
+ margin-bottom: 9px;
+}
+.header img{
+    width: 90px;
+    height: 70px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.header ul{
+    list-style: none;
+    display: flex;
+}
+.header ul li{
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+.getsrart{
+    margin-top: 18px;
+}
+.getsrart h4{
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.getsrart{
+    justify-content: space-between;
+    display: flex;
+}
+.h{
+    margin-left:40px;
+    margin-right:30px;
+}
+.healder{
+   margin-left: 340px;
+  margin-top: 90px;
+  margin-right: 200px;
+  margin-bottom: 130PX;
+
+}
+.healder h2{
+   font-size:50px; 
+   margin-bottom: 20PX;
+}
+.healder h5{
+    color: rgb(168, 166, 166);
+    font-size: small;
+    margin-left: 20px;
+    margin-bottom: 30PX;
+}
+.healder input{
+    padding: 4px;
+    margin-left: 150PX;
+    border-radius: 30px;
+    display: inline-block;
+
+}
+.healder P{
+    padding: 4px;
+    font-size: 20px;
+    display: flex;
+    padding:60PX solid;
+    background-color: rgb(228, 54, 54);
+    border-radius: 30px;
+    display: inline-block;
+}
+.healder h6{
+    color: rgb(187, 186, 186);
+    font-size: 10px;
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.image{
+    height: 720px;
+    overflow: hidden;
+}
+
+.image img{
+    width: 980px;
+    height: 800px;
+    margin-left: 200px;
+   border: 10px  solid black  ;
+    border-radius: 30px;
+  
+}
+.markts{
+    margin-top: 140px;
+    
+}
+.markts h4{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+}
+.click{
+    color: black;
+}
+.drop{
+    color: rgb(17, 78, 134);
+}
+.set{
+    color: rgb(16, 179, 124);
+}
+.git{
+    color: black;
+}
+.conteent{
+    margin-bottom: 100px;
+    margin-top: 150px;
+    height: 600px;
+    background-color: rgb(43, 136, 165);
+}
+.stylle h3{
+    font-size: 25px;
+    margin-left: 290px;
+    margin-bottom: 100px;
+    
+}
+.mother{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.mother div{
+    background-color: rgb(233, 229, 229);
+    border: 3px  solid rgb(223, 221, 221)  ;
+    margin-left: 50px;
+    padding: 5px;
+    margin-right: 40px;
+    margin-bottom: 100px;
+}
+
+.mother div img{
+    width: 60px;
+    height: 60px;
+    margin-left: 8px;
+}
+.mother div h6{
+    font-size: 30px;
+    margin-left: 10px;
+    color: rgb(7, 7, 85);
+}
+.mother div p{
+    color: rgb(192, 190, 190);
+    font-size: small;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.list{
+    margin-left: 260px;
+    width: 60%;
+    background-color: rgb(43, 136, 165);
+    height: 250px;
+    margin-bottom: 60px;
+}
+.list h4{
+    padding: 30px 0 0 0;
+    font-size: 30px;
+    margin-left: 190px;
+    color: aliceblue;
+}
+.list p{
+    margin-top: 30px;
+color: aliceblue;
+font-size: 8px;
+margin-left: 160px;
+}
+.list input{
+    width: 300px;
+    padding:4px;
+    margin-left: 240PX;
+    border-radius: 30px;
+    display: inline-block;
+}
+.finally{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(5, 5, 92);
+    margin-top: 150px;
+    display: flex;
+
+}
+.company h4{
+gap: 30px;
+margin-left: 20px;
+color: rgb(221, 211, 198);
+font-weight: 40px;
+font-size: 20px;
+}
+.company ul li{
+    color: rgb(138, 138, 138);
+    font-size: 15px;
+    font-weight: 30px;
+    padding: 20px 10px 0 0;
+}
+.company{
+    margin-top: 50px;
+    margin-left: 100px;
+}
